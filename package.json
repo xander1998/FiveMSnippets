@@ -1,0 +1,21 @@
+{
+    "name": "fivemsnippets",
+    "displayName": "FiveMSnippets",
+    "publisher": "Xander1998",
+    "description": "FiveM Native and Custom code snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "lua",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
