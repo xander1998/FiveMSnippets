@@ -4,6 +4,7 @@
     "publisher": "Xander1998",
     "description": "FiveM Native and Custom code snippets",
     "version": "0.0.1",
+    "repository": "https://github.com/xander1998/FiveMSnippets",
     "engines": {
         "vscode": "^1.60.0"
     },
